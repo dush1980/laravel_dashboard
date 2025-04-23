@@ -1,4 +1,4 @@
-# Laravel MIN Comparison Dashboard
+# VLE and Syncing data Comparison Dashboard
 
 This Laravel-based dashboard allows users to compare data from a 3rd-party database against data retrieved via a collection of MuleSoft APIs. It is designed for use within a private network and does not store any data locally or require authentication.
 
