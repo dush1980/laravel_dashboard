@@ -19,8 +19,8 @@ This Laravel-based dashboard allows users to compare data from a 3rd-party datab
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-laravel-dashboard.git
-   cd your-laravel-dashboard
+   git clone https://github.com/dush1980/laravel_dashboard.git
+   cd laravel_dashboard
    ```
 
 2. Install dependencies:
@@ -43,7 +43,7 @@ This Laravel-based dashboard allows users to compare data from a 3rd-party datab
    php artisan serve
    ```
 
-   Or configure it in your web server under the `/dashboard/public` path.
+   Or configure it in your web server.
 
 ## 🚫 No Authentication
 
